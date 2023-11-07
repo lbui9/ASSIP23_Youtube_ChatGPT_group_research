@@ -1,7 +1,7 @@
 # ASSIP23_Youtube_ChatGPT_group_research
 
 This is the research project that my team and I completed together for a summer 2023 internship program.
-To further understand the project, please read the _Conference Poster_ file. Since this is a group project,
+To further understand the project, please read the _Conference Poster_ file. Since this is a research project,
 I cannot upload all the needed materials but just some parts of it to illustrate. 
 
 Large language models (LLMs) like ChatGPT are, as per Frankfurt’s
